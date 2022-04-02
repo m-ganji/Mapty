@@ -1,3 +1,3 @@
 # mapty
 
-Click on the [link](https://mapty-full.netlify.app/)
+To see this project [click here...](https://mapty-full.netlify.app/)
